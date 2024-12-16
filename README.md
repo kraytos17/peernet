@@ -1,2 +1,2 @@
 # peernet
-P2P file sharing in Rust
+P2P file sharing in C++
